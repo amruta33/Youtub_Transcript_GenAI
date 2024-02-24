@@ -1,0 +1,6 @@
+youtube_transcript_api
+streamlit==1.30
+google-generativeai
+python-dotenv
+pathlib
+PyPDF2
